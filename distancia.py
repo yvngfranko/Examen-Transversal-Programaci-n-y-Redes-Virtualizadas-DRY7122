@@ -46,7 +46,7 @@ while True:
         print(f'El viaje en kilometros son: {kilometros} km')
         print(f'El viaje durara aproximadamente: {horas} hrs')
     
-    elif opc == '2':
+    elif opc == 's':
         break
 
     else:
